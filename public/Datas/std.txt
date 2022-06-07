@@ -1,0 +1,2 @@
+2021189004  김지환  O
+stID <tab or '\t'> stName '\t' O
