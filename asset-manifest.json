@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ModuleProject/static/js/main.24f494f9.js",
+    "static/js/787.ffdf383b.chunk.js": "/ModuleProject/static/js/787.ffdf383b.chunk.js",
+    "index.html": "/ModuleProject/index.html",
+    "main.24f494f9.js.map": "/ModuleProject/static/js/main.24f494f9.js.map",
+    "787.ffdf383b.chunk.js.map": "/ModuleProject/static/js/787.ffdf383b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.24f494f9.js"
+  ]
+}
